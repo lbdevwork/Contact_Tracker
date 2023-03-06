@@ -18,7 +18,7 @@
                 image_src="https://play.teleporthq.io/static/svg/default-img.svg"
               ></FriendItem>
             </div>
-          </div>
+          </div> 
         </div>
         <StatusSideBar
           rootClassName="status-side-bar-root-class-name"
