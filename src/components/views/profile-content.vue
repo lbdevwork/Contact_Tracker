@@ -56,7 +56,7 @@ import { usePeopleStore } from '@/stores/people.js'
         </router-link>
       </button>
     </div>
-    <div class="nakama-profile1-blog-posts">
+    <div class="nakama-profile1-blog-posts" style="margin-top:2rem">
       <h1 class="nakama-profile1-text26 HeadingTwo">
         <span>Nicknames</span>
         <br />

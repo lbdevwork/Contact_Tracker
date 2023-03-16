@@ -3,7 +3,7 @@
     <div class="nakama-search-container1">
       <AppHeader rootClassName="header-root-class-name1"></AppHeader>
       <div class="nakama-search-container2">
-        <div class="nakama-search-container3">
+        <div class="nakama-search-container3" style="margin-top: 1rem;">
           <Profile></Profile>
         </div>
         <StatusSideBar
